@@ -1,4 +1,11 @@
 # GYM-Management-System
+
+PROJECT NAME: GYMPRO
+Prepared by : Abdullah Latif Kiyani
+SCOPE: Gym Management System
+DATE:    3-12-2023
+
+
 In the realm of traditional gym management, numerous challenges arise, including manual handling of membership records, inefficient class scheduling, and a lack of streamlined
 communication between administrators and members. The Gym Management System aims to address these challenges by introducing an automated and user-friendly platform that 
 significantly improves the operational efficiency of gym facilities.
