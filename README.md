@@ -1,8 +1,11 @@
 # GYM-Management-System
 
 PROJECT NAME: GYMPRO
+
 Prepared by : Abdullah Latif Kiyani
+
 SCOPE: Gym Management System
+
 DATE:    3-12-2023
 
 
