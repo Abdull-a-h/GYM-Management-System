@@ -10,7 +10,7 @@ DATE:    3-12-2023
 
 
 In the realm of traditional gym management, numerous challenges arise, including manual handling of membership records, inefficient class scheduling, and a lack of streamlined
-communication between administrators and members. The Gym Management System aims to address these challenges by introducing an automated and user-friendly platform that 
+communication between administrators and members. The Gym Management System  addresses these challenges by introducing an automated and user-friendly platform that 
 significantly improves the operational efficiency of gym facilities.
 The Gym Management System functions as a centralized software application within the gym's operational framework. It interacts with gym administrators, trainers, and members 
 to facilitate efficient management processes. The system integrates seamlessly with existing hardware such as attendance tracking devices.
